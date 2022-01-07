@@ -1,11 +1,37 @@
-li {
-  float: right;
+.container {
+  float: left;
+  padding-left: 2%;
+  background-color: white;
 }
 
-.container {
+.today-picture {
   float: left;
 }
 
-/* .today-picture {
+.side-bar {
+  background-color: #f1f1f1;
+  float: left;
+  padding-right: 1%;
+}
+
+.top-bar {
   float: right;
-} */
+}
+
+img {
+  padding-right: 1%;
+}
+
+.card {
+  margin-top: 5%;
+}
+
+.in-the-news {
+  background-color: #f6faff;
+}
+
+h2 {
+  border: black;
+  border-style: solid;
+  border-width: 1px;
+}
